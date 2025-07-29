@@ -1,6 +1,6 @@
 # 🔗 Workshop Internet of Things - Universitas Brawijaya
 
-Welcome to the official repository of the **Internet of Things (IoT) Workshop** at Universitas Brawijaya, proudly organized under the **Electrical Engineering Student Association (HME UB)**.  
+Welcome to the official repository of the **Internet of Things (IoT) Workshop** at Universitas Brawijaya, proudly organized under the **Himpunan Mahasiswa Teknik Elektro (HME FT-UB)**.  
 We focus on practical skills development, research, and collaborative projects in the IoT field.
 
 ---
