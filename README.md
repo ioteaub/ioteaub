@@ -88,7 +88,10 @@ Department of Electrical Engineering, Faculty of Engineering, Universitas Brawij
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ioteaub&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=ioteaub&layout=compact&theme=dracula" alt="Activity Graph" />
+</p>
 ---
 
-✨ *“The best way to learn is by doing.”*  
+✨ *“Do it first.”*  
 © 2025 Electrical Engineering Student Association - Universitas Brawijaya
