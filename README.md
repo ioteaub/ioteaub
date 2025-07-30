@@ -89,7 +89,7 @@ Department of Electrical Engineering, Faculty of Engineering, Universitas Brawij
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=ioteaub&theme=dracula" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ioteaub&theme=dracula" alt="Github Graph" />
 </p>
 ---
 
