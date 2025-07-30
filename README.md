@@ -65,9 +65,7 @@ To become a leading platform for UB Electrical Engineering students to develop i
 
 ## 📫 Get in Touch
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iot.ub/)  
-[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://iot.ub.ac.id/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iotub2025@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iot.ub/)  [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=vercel&logoColor=white)](https://iot.ub.ac.id/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iotub2025@gmail.com)
 
 📍 **Address:**  
 Department of Electrical Engineering, Faculty of Engineering, Universitas Brawijaya, Malang, Indonesia.
